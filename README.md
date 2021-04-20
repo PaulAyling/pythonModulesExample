@@ -19,7 +19,7 @@ src/dataImportScripts/createDatamart3
 # Notes
 It is important to note that once a module is imported it is then in memory meaning that if you change the import it will not refesh automatically 
 
-# HOw to change Imports
+# How to change Imports
 - 1 change code in the module to be imported
 - 2 run the code that is below the annotation "# run this if you edit the import module"
 - 3 rerun that import script and you will THEN see your changes reflected
