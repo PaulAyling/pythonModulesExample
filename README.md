@@ -1,5 +1,5 @@
 # Purpose
-To illustrate the different ways to import modules and packages that allow dffernt file management oraganisation in python.
+To illustrate the different ways to import modules and packages that allow different file management organization in python.
 
 # Use case
 when you multiple scripts using shared components where you may have many src directories
@@ -17,7 +17,7 @@ src/dataImportScripts/createDatamart3
 - You will have to run the code to remove imports from memory (noted in code) to be able to test the imports
 
 # Notes
-It is important to note that once a module is imported it is then in memory meaning that if you change the import it will not refesh automatically 
+It is important to note that once a module is imported it is then in memory meaning that if you change the import it will not refresh automatically 
 
 # How to change Imports
 - 1 change code in the module to be imported
