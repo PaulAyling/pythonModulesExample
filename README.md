@@ -2,8 +2,7 @@
 To illustrate the different ways to import modules and packages that allow different file management organization in python.
 
 # Use case
-when you multiple scripts using shared components where you may have many src directories
-such as below;
+When you multiple scripts using shared components where you may have many src directories, such as below;
 
 
 common  {shared modules}
